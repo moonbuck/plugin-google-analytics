@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "title": "Google Analytics",
+    "description": "Google Analytics global site tag script injection.",
+    "includes": [
+        "google-analytics-script.html"
+    ],
+    "fields": [
+        {
+            "field": "params.global_site_tag",
+            "label": "Global Site Tag",
+            "placeholder": "Global site tag assigned by Google Analytics."
+        }
+    ]
+  }
